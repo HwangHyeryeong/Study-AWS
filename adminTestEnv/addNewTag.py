@@ -1,3 +1,6 @@
+```
+테스트 환경에 있는 리소스 중 'TestTag' 태그를 가진 리소스에 새로운 태그를 추가하는 함수
+```
 import json
 import boto3
         
