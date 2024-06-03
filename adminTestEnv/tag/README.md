@@ -9,14 +9,14 @@
 - 추가 태그: 'NEWTAG'
 
 ## 테스트 실행 결과
-Status: Succeeded
-Max memory used: 78 MB
-Time: 5795.93 ms
+**Status**: Succeeded 
+**Max memory used**: 78 MB 
+**Time**: 5795.93 ms
 
-**Test Event Name**
+**Test Event Name**   
 (unsaved) test event
 
-**Response**
+**Response**   
 {
   "statusCode": 200,
   "body": "Tags created successfully"
